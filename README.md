@@ -2,7 +2,7 @@
 this is phase one end project, automate using selenium to get list of search items in amazon
 
 Steps
-1. Open Chrome browset
+1. Open Chrome browser
 2. Navigate to https://amazon.in
 3. Get locator for search box and enter search as "samsung mobile"
 4. Click on submit button
